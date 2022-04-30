@@ -60,7 +60,7 @@ elif args.decrypt is True:
 
 #### - Utilisation sur un fichier à crypter
 
-![César](Rapport/cesar.png){height=55%}
+![César](Rapport/cesar.png)
 
 #### - Utilisation sur un fichier à décrypter
 
@@ -187,7 +187,7 @@ else:
 
 #### - Utilisation du script pour crypter et décrypter  
 
-![Mono alphabétique](rapport/Mono.png)
+![Mono alphabétique](Rapport/Mono.png)
 *** 
 ## 3. Poly alphabétique
 
